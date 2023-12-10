@@ -1,4 +1,4 @@
-for first time installation, or after doing a git pull
+for first time installation, or after doing a `git clone` or `git pull`
 ```
 npm install
 ```
